@@ -1,0 +1,10 @@
+anthropic
+datasets
+fastapi
+uvicorn
+sentence-transformers
+rank-bm25
+numpy
+torch
+scikit-learn
+pydantic

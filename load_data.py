@@ -1,0 +1,4 @@
+import pandas as pd
+
+from datasets import load_dataset
+dataset = load_dataset("simecek/czech_news")
